@@ -270,7 +270,7 @@ router.delete(
 );
 
 // @route   DELETE api/profile
-// @desc    Delete education from profile
+// @desc    Delete user and profile
 // @access  Private
 router.delete(
   "/",
